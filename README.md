@@ -24,3 +24,6 @@
 
 
 2019/07/04(四) 完成 08_Greedy_Method
+
+
+2019/07/04(四) 完成 09_Scaling_Method
